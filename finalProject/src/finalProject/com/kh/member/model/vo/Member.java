@@ -7,11 +7,6 @@ public class Member {
 	public void setHaha(String haah) {
 		this.haha = haha;
 	}
-
-	public Member(String haha) {
-		super();
-		this.haha = haha;
-	}
 	
 	
 }
