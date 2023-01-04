@@ -3,8 +3,3 @@ public Class 안녕 {
 	System.out.println("안녕");
 
 }
-
-public Class hhhh{
-	System.out.println("hello");
-}
-public
